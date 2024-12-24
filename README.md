@@ -2,7 +2,7 @@
 Welcome to my personal portfolio website repository! This project showcases my journey as a software developer and highlights key projects, skills, and achievements. The website is built using HTML, CSS, and JavaScript, with a focus on responsive design and user experience.
 
 ## 🔗 Live Demo
-You can view the live version of the website here: [**here**](http://example.com/your-portfolio-link)
+You can view the live version of the website here: [**here**](https://vineetvermaportfolio.netlify.app/)
 
 ## 🌟 Features
 **Home Page:** An introduction to who I am, my skills, and an overview of the website's contents.
