@@ -6,21 +6,25 @@ You can view the live version of the website here: [**here**](https://vineetverm
 
 ## 🌟 Features
 **Home Page:** An introduction to who I am, my skills, and an overview of the website's contents.
-![Screenshot 2024-10-14 155102](https://github.com/user-attachments/assets/17ddc8ff-8913-4460-8c31-a4fe95de1584)
+![Screenshot 2025-04-29 185006](https://github.com/user-attachments/assets/1c849da0-d74a-4965-b8cd-52eca3279526)
+
 
 **Projects Section:** Detailed descriptions and live demos of my key projects, including:
+![Screenshot 2025-04-29 185047](https://github.com/user-attachments/assets/2553d49f-e886-4423-b476-e0c88ed2b5b7)
 
 **GestureTalk:** A sign language to text converter using Convolutional Neural Networks (CNN).
 **Real-Time Chat App:** A Java-based app featuring push notifications and real-time messaging powered by Firebase and CometChat SDK.
 **Travel Booking Website:** A full-stack web application for booking travel plans.
 **Skills & Certifications:** A list of my technical skills and certifications in areas like cloud computing, cybersecurity, Java, and Python.
-![Screenshot 2024-10-14 155155](https://github.com/user-attachments/assets/38f4cb61-dea2-4fa7-be3b-a4b23d8586f2)
+
+
 
 LeetCode Achievements: Display of my LeetCode problem-solving challenges and coding statistics.
-![Screenshot 2024-10-14 161223](https://github.com/user-attachments/assets/b7e7651a-4133-4327-b7d1-87cc51877244)
+![Screenshot 2025-04-29 185109](https://github.com/user-attachments/assets/7def90b7-8f8d-4fc7-ba8c-22e63b82bae3)
+
 
 **Contact Information:** Easy access to my social media profiles and email for networking or collaboration opportunities.
-![Screenshot 2024-10-14 155140](https://github.com/user-attachments/assets/3f1bf516-05f1-403c-bd51-08f88bbec8b9)
+![Screenshot 2025-04-29 185125](https://github.com/user-attachments/assets/5f6ba0d3-6dcf-4cee-9699-f6244f81cc75)
 
 
 ## 📁 Project Structure
